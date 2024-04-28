@@ -5,8 +5,6 @@
 - Favored Languages:
   - Python
   - Haskell
-- Currently Reading:
-  - Python Machine Learning by Sebastian Raschka
 
 <!---
 matt-152/matt-152 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
